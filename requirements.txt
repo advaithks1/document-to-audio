@@ -1,0 +1,9 @@
+Flask==2.3.2
+python-docx==0.8.11
+PyMuPDF==1.22.5
+langdetect==1.0.9
+gTTS==2.3.0
+nltk==3.8.1
+pydub==0.25.1
+tamil==0.3
+
